@@ -26,7 +26,5 @@ docs/**/*
 *.ipr
 *.iws
 .idea/**
-!.idea/codeStyleSettings.xml
-!.idea/inspectionProfiles
-!.idea/inspectionProfiles/Project_Default.xml
+
 
