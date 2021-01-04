@@ -56,7 +56,6 @@ android {
 // easier to parse as a separate module given the existing complexity here and in the compiler
 // build.gradle file.
 dependencies {
-    testImplementation project(':glide')
     testImplementation project(':annotation:compiler')
     testImplementation "junit:junit:${JUNIT_VERSION}"
     testImplementation "com.squareup:javapoet:${JAVAPOET_VERSION}"
