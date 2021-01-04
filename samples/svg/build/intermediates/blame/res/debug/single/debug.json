@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Android 11\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\4ff835c6d8cf6c94def5687c83a84559\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\OpenCode\\glide\\samples\\svg\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\drawable_dot_dot_dot.xml.flat",
+        "source": "E:\\OpenCode\\glide\\samples\\svg\\src\\main\\res\\drawable\\dot_dot_dot.xml"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Android 11\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\4ff835c6d8cf6c94def5687c83a84559\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Android 11\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\4ff835c6d8cf6c94def5687c83a84559\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Android 11\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\4ff835c6d8cf6c94def5687c83a84559\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\Android 11\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\4ff835c6d8cf6c94def5687c83a84559\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\Android 11\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\4ff835c6d8cf6c94def5687c83a84559\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\Android 11\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\4ff835c6d8cf6c94def5687c83a84559\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\Android 11\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\4ff835c6d8cf6c94def5687c83a84559\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\OpenCode\\glide\\samples\\svg\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Android 11\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\4ff835c6d8cf6c94def5687c83a84559\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Android 11\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\4ff835c6d8cf6c94def5687c83a84559\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Android 11\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\4ff835c6d8cf6c94def5687c83a84559\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Android 11\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\4ff835c6d8cf6c94def5687c83a84559\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\Android 11\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\4ff835c6d8cf6c94def5687c83a84559\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\Android 11\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\4ff835c6d8cf6c94def5687c83a84559\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\Android 11\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\4ff835c6d8cf6c94def5687c83a84559\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\Android 11\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\4ff835c6d8cf6c94def5687c83a84559\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Android 11\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\4ff835c6d8cf6c94def5687c83a84559\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Android 11\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\4ff835c6d8cf6c94def5687c83a84559\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\drawable_image_loading.xml.flat",
+        "source": "E:\\OpenCode\\glide\\samples\\svg\\src\\main\\res\\drawable\\image_loading.xml"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Android 11\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\4ff835c6d8cf6c94def5687c83a84559\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\OpenCode\\glide\\samples\\svg\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Android 11\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\4ff835c6d8cf6c94def5687c83a84559\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\OpenCode\\glide\\samples\\svg\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Android 11\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\4ff835c6d8cf6c94def5687c83a84559\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Android 11\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\4ff835c6d8cf6c94def5687c83a84559\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Android 11\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\4ff835c6d8cf6c94def5687c83a84559\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\OpenCode\\glide\\samples\\svg\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Android 11\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\4ff835c6d8cf6c94def5687c83a84559\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Android 11\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\4ff835c6d8cf6c94def5687c83a84559\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\OpenCode\\glide\\samples\\svg\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Android 11\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\4ff835c6d8cf6c94def5687c83a84559\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Android 11\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\4ff835c6d8cf6c94def5687c83a84559\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Android 11\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\4ff835c6d8cf6c94def5687c83a84559\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Android 11\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\4ff835c6d8cf6c94def5687c83a84559\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\drawable_image_error.xml.flat",
+        "source": "E:\\OpenCode\\glide\\samples\\svg\\src\\main\\res\\drawable\\image_error.xml"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\raw_android_toy_h.svg.flat",
+        "source": "E:\\OpenCode\\glide\\samples\\svg\\src\\main\\res\\raw\\android_toy_h.svg"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Android 11\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\4ff835c6d8cf6c94def5687c83a84559\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Android 11\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\4ff835c6d8cf6c94def5687c83a84559\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

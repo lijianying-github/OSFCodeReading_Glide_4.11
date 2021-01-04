@@ -1,0 +1,4 @@
+#Mon Jan 04 14:45:14 CST 2021
+base.0=E\:\\OpenCode\\glide\\samples\\svg\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
