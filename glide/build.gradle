@@ -1,9 +1,5 @@
 apply plugin: 'com.android.library'
 
-if (!hasProperty('DISABLE_ERROR_PRONE')) {
-    apply plugin: "net.ltgt.errorprone"
-}
-
 tasks.withType(JavaCompile) {
     options.fork = true
 }

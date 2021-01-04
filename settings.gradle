@@ -1,19 +1,22 @@
-include ':library'
-include ':library:pmd'
-include ':library:findbugs'
-include ':library:test'
+include ':glide'
+include ':glide:test'
+
 include ':instrumentation'
+
 include ':annotation'
 include ':annotation:compiler'
 include ':annotation:compiler:test'
+
 include ':third_party:gif_decoder'
 include ':third_party:disklrucache'
+
 include ':samples:flickr'
 include ':samples:giphy'
 include ':samples:svg'
 include ':samples:gallery'
 include ':samples:contacturi'
 include ':samples:imgur'
+
 include ':integration'
 include ':integration:concurrent'
 include ':integration:cronet'
@@ -22,6 +25,7 @@ include ':integration:okhttp'
 include ':integration:okhttp3'
 include ':integration:recyclerview'
 include ':integration:volley'
+
 include ':testutil'
 include ':mocks'
 
