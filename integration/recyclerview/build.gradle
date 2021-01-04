@@ -1,7 +1,7 @@
 apply plugin: 'com.android.library'
 
 dependencies {
-    implementation project(':library')
+    implementation project(':glide')
     compileOnly "androidx.recyclerview:recyclerview:${ANDROID_X_VERSION}"
     compileOnly "androidx.fragment:fragment:${ANDROID_X_VERSION}"
 }

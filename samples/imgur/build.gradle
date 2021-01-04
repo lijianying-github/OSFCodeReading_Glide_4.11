@@ -25,7 +25,7 @@ android {
 }
 
 dependencies {
-    implementation project(':library')
+    implementation project(':glide')
     annotationProcessor project(':annotation:compiler')
 
     implementation "com.google.dagger:dagger:${DAGGER_VERSION}"

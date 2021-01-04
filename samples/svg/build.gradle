@@ -1,7 +1,7 @@
 apply plugin: 'com.android.application'
 
 dependencies {
-    implementation project(':library')
+    implementation project(':glide')
     annotationProcessor project(':annotation:compiler')
     implementation 'com.caverock:androidsvg:1.2.1'
     implementation "androidx.fragment:fragment:${ANDROID_X_VERSION}"

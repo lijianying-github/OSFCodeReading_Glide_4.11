@@ -1,7 +1,7 @@
 apply plugin: 'com.android.library'
 
 dependencies {
-    implementation project(':library')
+    implementation project(':glide')
     annotationProcessor project(':annotation:compiler')
 
     api "com.squareup.okhttp3:okhttp:${OK_HTTP_VERSION}"
